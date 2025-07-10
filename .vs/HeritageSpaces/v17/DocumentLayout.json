@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|c:\\users\\sreed\\source\\repos\\heritagespaces\\pages\\shared\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|solutionrelative:pages\\shared\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|c:\\users\\sreed\\source\\repos\\heritagespaces\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|c:\\users\\sreed\\source\\repos\\heritagespaces\\pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36630653-59D4-4D49-BE4F-53B9F772FFE3}|HeritageSpaces.csproj|solutionrelative:pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Shared\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\About.cshtml",
+              "ToolTip": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Shared\\About.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T19:47:40.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Gallery.cshtml",
+              "RelativeToolTip": "Pages\\Gallery.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T19:40:40.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sreed\\source\\repos\\HeritageSpaces\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T19:34:35.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
